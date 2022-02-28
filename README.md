@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChestnutYueyue&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChestnutYueyue&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=true" />
 
 I'm a security & hardware engineer. Good at software reverse engineering, software security, iot security, web, etc.
 
