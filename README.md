@@ -8,8 +8,8 @@ I'm a security & hardware engineer. Good at software reverse engineering, softwa
 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Assembly
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Java
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript / PHP
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Rust
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript 
 - ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 
 ## 🛠 Skills
