@@ -1,23 +1,23 @@
-# 👋 Hey!
+# 👋 嘿！
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChestnutYueyue&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=true" />
 
-I'm a security & hardware engineer. Good at software reverse engineering, software security, iot security, web, etc.
+我是一名自由开发者。
 
-## 💬 Worked language for me
 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++ 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Assembly
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / C# / Rust
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript 
-- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡And more...
 
-## 🛠 Skills
 
-- ✅   Web Security / Binary Security
-- ✅   Software Developing / Reversing
-- ✅   PCB Design & Soldering
-- ✅   FPGA IP Design
-- ✅   Misc like 3D Printing, CAD, Laser cutting, CNC etc...
-- ✅   And more, which just my hobby...
+## 💬 为我工作的语言
+
+- ✅⁠ ⁢⁣⁡⁠ ⁢⁣⁡C / C++
+- ✅⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python / Rust 
+- ✅⁠ ⁢⁣⁡⁠ ⁢⁣⁡HTML / CSS / JavaScript
+- ✅  以及更多...
+
+## 🛠 技能
+
+- ✅  软件开发
+- ✅  游戏开发
+- ✅  arduino开发
+- ✅  还有更多，这只是我的爱好...
 
