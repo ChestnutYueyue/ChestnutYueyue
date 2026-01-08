@@ -1,6 +1,6 @@
 # 👋 嘿！
 
-<img align="right" src="https://readme-stats-orpin-ten.vercel.app/api?username=ChestnutYueyue&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://readme-stats-orpin-ten.vercel.app/api?username=ChestnutYueyue&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&locale=cn&hide_title=true" />
 我是一名自由开发者。
 
 
